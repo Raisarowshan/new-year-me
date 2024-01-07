@@ -1,0 +1,147 @@
+/* header style */
+header{
+    font-family: 'Work Sans', sans-serif;
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 800px;
+
+}
+.header{
+ text-align: right;
+margin: 100px 150px 0px;
+width: 500px;
+float: right;
+}
+.heading{
+color: #FFF;
+text-align: right;
+font-size: 65px;
+font-weight: 700;
+
+
+}
+
+.btn{
+border-radius: 5px;
+background: #FFF;
+width:150px ;
+height:35px;
+border: 0px;
+}
+#contact{
+    color: #005FAC;
+text-align: right;
+
+font-size: 20px;
+font-weight: 600;
+
+}
+.main{
+    align-items: center;
+    display: flex;
+   
+}
+.failure{
+    width: 150px;
+   
+}
+.failure.description{
+    text-align: right;
+    margin: 150px 200px 60px;
+    width: 700px;
+    height: 100px;
+    float: right;
+   
+}
+.skill-context{
+    display: flex;
+}
+.plan{
+    padding: 30px;
+    gap: 25px;
+    margin: 0px auto;
+}
+.title{
+
+color: #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+}
+.picture{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 800px;
+    height:400px;
+    border-radius: 8px;
+    padding: 100px 100px 150px;
+    margin:0px auto;
+}
+.pic-color{
+ color: #FFF;
+font-size: 40px;
+font-weight: 700;
+
+}
+.footer{
+    display: flex;
+    
+   
+
+
+    
+}
+.title-footer{
+    color: #F8F8F8;
+
+font-size: 45px;
+
+font-weight: 700;
+
+    
+}
+#footer-des{
+    width: 600px;
+    height:15px;
+    color: #FFF;
+
+font-size: 16px;
+
+font-weight: 400;
+
+}
+footer{
+    width: 1500px;
+    height: 600px;
+    background-color: black;
+}
+.email{
+    color: #FFF;
+
+font-size: 16px;
+
+font-weight: 400;
+
+}
+.sub{
+    color: #FFF;
+
+font-size: 25px;
+
+font-weight: 600;
+
+}
+.musfiq{
+    border-radius: 8px;
+    background: #005FAC;
+width:150px ;
+height:35px;
+border: 0px;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 600;
+
+}
